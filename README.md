@@ -327,7 +327,7 @@ Es el punto de entrada del proyecto: el archivo que se ejecuta cuando alguien es
 Antes de instalar nada, guarda el primer registro de que estás aquí. Abre `README.md` en el editor, desplázate al inicio  y agrega en la tabla inicial tu nombre. La línea se ve así:
 
 ```
-| Participante | CHRISTIAN FELIPE ALZATE CARDONA|
+| Participante |  CHRISTIAN FELIPE ALZATE CARDONA|
 ```
 
 Guarda con `Ctrl + S`. Luego en la terminal:
