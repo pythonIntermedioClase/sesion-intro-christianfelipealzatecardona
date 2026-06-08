@@ -12,5 +12,5 @@
 
 pandas==2.3.0
 openpyxl==3.2.0
-
+duckdb==1.3.2
 # Agrega aquí la librería que elijas en el ejercicio de investigación:
